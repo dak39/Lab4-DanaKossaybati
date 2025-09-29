@@ -130,9 +130,9 @@ The system follows a modular architecture with separation of concerns:
 
 **Data Layer:**
 
-- JSON-based persistence (`data_manager.py`)
+- JSON-based data management (`data_manager.py`)
 
-- SQLite-based persistence (`database_manager.py`)
+- SQLite-based data management (`database_manager.py`)
 
  **Classes Logic:**
 

@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Iman",
+        "age": 25,
+        "email": "iman@mail.com",
+        "instructor_id": "I1001",
+        "assigned_courses": []
+    },
+    {
+        "name": "Alice",
+        "age": 34,
+        "email": "alice@mail.com",
+        "instructor_id": "I1002",
+        "assigned_courses": [
+            "EECE330"
+        ]
+    },
+    {
+        "name": "Bob",
+        "age": 45,
+        "email": "bob@mail.com",
+        "instructor_id": "I1003",
+        "assigned_courses": []
+    }
+]

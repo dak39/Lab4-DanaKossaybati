@@ -1,0 +1,47 @@
+[
+    {
+        "course_id": "EECE435L",
+        "course_name": "Software Engineering Lab",
+        "instructor": null,
+        "enrolled_students": [
+            {
+                "name": "Jason",
+                "age": 20,
+                "email": "jason@mail.com",
+                "student_id": "S2001",
+                "registered_courses": [
+                    "EECE330",
+                    "EECE334",
+                    "EECE435L"
+                ]
+            }
+        ]
+    },
+    {
+        "course_id": "EECE334",
+        "course_name": "Programming Languages",
+        "instructor": null,
+        "enrolled_students": []
+    },
+    {
+        "course_id": "EECE330",
+        "course_name": "Data Structures",
+        "instructor_id": "I1002",
+        "instructor": {
+            "name": "Alice",
+            "age": 34,
+            "email": "alice@mail.com",
+            "instructor_id": "I1002",
+            "assigned_courses": [
+                "EECE330"
+            ]
+        },
+        "enrolled_students": []
+    },
+    {
+        "course_id": "MATH101",
+        "course_name": "Calculus I",
+        "instructor": null,
+        "enrolled_students": []
+    }
+]

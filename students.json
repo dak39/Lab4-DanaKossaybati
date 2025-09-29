@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Jason",
+        "age": 20,
+        "email": "jason@mail.com",
+        "student_id": "S2001",
+        "registered_courses": [
+            "EECE330",
+            "EECE334",
+            "EECE435L"
+        ]
+    },
+    {
+        "name": "Emily",
+        "age": 22,
+        "email": "emily12@mail.com",
+        "student_id": "S2002",
+        "registered_courses": [
+            "EECE334"
+        ]
+    },
+    {
+        "name": "Michael",
+        "age": 21,
+        "email": "michael@mail.com",
+        "student_id": "S2003",
+        "registered_courses": [
+            "Programming Languages",
+            "MATH101"
+        ]
+    },
+    {
+        "name": "Sarah",
+        "age": 23,
+        "email": "sarah@mail.com",
+        "student_id": "S2004",
+        "registered_courses": []
+    },
+    {
+        "name": "Ziad",
+        "age": 19,
+        "email": "ziad@mail.com",
+        "student_id": "S2005",
+        "registered_courses": []
+    }
+]
